@@ -1,0 +1,163 @@
+Code,Description,Hash,OriginFile,LoadEpoch,LoadDatetime
+A,"[{'Language': 'NL', 'Description': 'Afspraak'}
+ {'Language': 'NO', 'Description': 'Avtale'}
+ {'Language': 'FR', 'Description': 'Rendez-vous'}
+ {'Language': 'DE', 'Description': 'Termin'}
+ {'Language': 'EN', 'Description': 'Appointment'}
+ {'Language': 'SV', 'Description': 'Avtalad tid'}
+ {'Language': 'IT', 'Description': 'Appuntamento'}
+ {'Language': 'ES', 'Description': 'Cita'}
+ {'Language': 'DA', 'Description': 'Aftale'}]",6693648379730648256,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04
+C,"[{'Language': 'NL', 'Description': 'Contract verstuurd'}
+ {'Language': 'NO', 'Description': 'Formidlingsavtalen sendt'}
+ {'Language': 'FR', 'Description': 'Contrat envoyé'}
+ {'Language': 'DE', 'Description': 'Vertrag zugeschickt'}
+ {'Language': 'EN', 'Description': 'Contract sent'}
+ {'Language': 'SV', 'Description': 'Avtalet skickas'}
+ {'Language': 'IT', 'Description': 'Contratto Spedito'}
+ {'Language': 'ES', 'Description': 'Contrato Enviado'}
+ {'Language': 'DA', 'Description': 'Formidlingsaftale sendt'}]",4991584758409991827,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04
+CA,"[{'Language': 'NL', 'Description': 'Contract goedgekeurd'}
+ {'Language': 'NO', 'Description': 'Kontrakt godkjent'}
+ {'Language': 'FR', 'Description': 'Contrat approuvé'}
+ {'Language': 'DE', 'Description': 'Vertrag genehmigt'}
+ {'Language': 'EN', 'Description': 'Contract approved'}
+ {'Language': 'SV', 'Description': 'Kontrakt godkänt'}
+ {'Language': 'IT', 'Description': 'Contratto approvato'}
+ {'Language': 'ES', 'Description': 'Contrato aprobado'}
+ {'Language': 'DA', 'Description': 'Kontrakt godkendt'}]",-1076621902320281699,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04
+CO,"[{'Language': 'NL', 'Description': 'Contract Ontvangen'}
+ {'Language': 'NO', 'Description': 'Formidlingsavtale mottatt'}
+ {'Language': 'FR', 'Description': 'Contrat reçu'}
+ {'Language': 'DE', 'Description': 'Vertrag erhalten'}
+ {'Language': 'EN', 'Description': 'Contract recieved'}
+ {'Language': 'SV', 'Description': 'Kontrakt mottaget'}
+ {'Language': 'IT', 'Description': 'Contratto Ricevuto'}
+ {'Language': 'ES', 'Description': 'Contrato Recibido'}
+ {'Language': 'DA', 'Description': 'Formidlingsaftale modtage'}]",5283973568751222484,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04
+CR,"[{'Language': 'NL', 'Description': 'Contract afgewezen'}
+ {'Language': 'NO', 'Description': 'Kontrakt avvist'}
+ {'Language': 'FR', 'Description': 'Contrat rejeté'}
+ {'Language': 'DE', 'Description': 'Vertrag abgelehnt'}
+ {'Language': 'EN', 'Description': 'Contract rejected'}
+ {'Language': 'SV', 'Description': 'Kontrakt avvisat'}
+ {'Language': 'IT', 'Description': 'Contratto respinto'}
+ {'Language': 'ES', 'Description': 'Contrato rechazado'}
+ {'Language': 'DA', 'Description': 'Kontrakt afvist'}]",2223846261310158242,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04
+D,"[{'Language': 'NL', 'Description': 'Definitief'}
+ {'Language': 'NO', 'Description': 'Kontrakt'}
+ {'Language': 'FR', 'Description': 'Définitif'}
+ {'Language': 'DE', 'Description': 'Definitiv'}
+ {'Language': 'EN', 'Description': 'Definite'}
+ {'Language': 'SV', 'Description': 'Kontrakt'}
+ {'Language': 'IT', 'Description': 'Definitivo'}
+ {'Language': 'ES', 'Description': 'Definitivo'}
+ {'Language': 'DA', 'Description': 'Kontrakt'}]",1734217775579694967,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04
+DP,"[{'Language': 'NL', 'Description': 'Definitief Probleem'}
+ {'Language': 'NO', 'Description': 'Kontrakt med problem'}
+ {'Language': 'FR', 'Description': 'Définitif Problème'}
+ {'Language': 'DE', 'Description': 'Definitiv Problem'}
+ {'Language': 'EN', 'Description': 'Definite Problem'}
+ {'Language': 'SV', 'Description': 'Kontrakt med problem'}
+ {'Language': 'IT', 'Description': 'Definitivo Problema'}
+ {'Language': 'ES', 'Description': 'Definitivo Problema'}
+ {'Language': 'DA', 'Description': 'Kontrakt med problem'}]",6004325500757461971,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04
+H,"[{'Language': 'NL', 'Description': 'In de wacht'}
+ {'Language': 'NO', 'Description': 'På vent'}
+ {'Language': 'FR', 'Description': 'En attente'}
+ {'Language': 'DE', 'Description': 'In Wartestellung'}
+ {'Language': 'EN', 'Description': 'On hold'}
+ {'Language': 'SV', 'Description': 'Placerad i kö'}
+ {'Language': 'IT', 'Description': 'In attesa'}
+ {'Language': 'ES', 'Description': 'En espera'}
+ {'Language': 'DA', 'Description': 'I venteposition'}]",-3997960020805256072,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04
+I,"[{'Language': 'NL', 'Description': 'Invoer'}
+ {'Language': 'NO', 'Description': 'Opplysninger'}
+ {'Language': 'FR', 'Description': 'Entrée'}
+ {'Language': 'DE', 'Description': 'Eingabe'}
+ {'Language': 'EN', 'Description': 'Input'}
+ {'Language': 'SV', 'Description': 'Input'}
+ {'Language': 'IT', 'Description': 'Inserimento'}
+ {'Language': 'ES', 'Description': 'Introducción'}
+ {'Language': 'DA', 'Description': 'Input'}]",311381252716520288,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04
+IV,"[{'Language': 'NL', 'Description': 'Info verzonden'}
+ {'Language': 'NO', 'Description': 'Opplysning sendt'}
+ {'Language': 'FR', 'Description': 'Infos envoyées'}
+ {'Language': 'DE', 'Description': 'Info verschickt'}
+ {'Language': 'EN', 'Description': 'Information sent'}
+ {'Language': 'SV', 'Description': 'Information skickad'}
+ {'Language': 'IT', 'Description': 'Informazioni Spedite'}
+ {'Language': 'ES', 'Description': 'Información Enviada'}
+ {'Language': 'DA', 'Description': 'Oplysning sendt'}]",-5384075448428181889,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04
+L,"[{'Language': 'NL', 'Description': 'Lead'}
+ {'Language': 'NO', 'Description': 'Henvendelse/Emne'}
+ {'Language': 'FR', 'Description': 'Lead'}
+ {'Language': 'DE', 'Description': 'Lead'}
+ {'Language': 'EN', 'Description': 'Lead'}
+ {'Language': 'SV', 'Description': 'Intresseanmälan'}
+ {'Language': 'IT', 'Description': 'Lead'}
+ {'Language': 'ES', 'Description': 'Lead'}
+ {'Language': 'DA', 'Description': 'Henvendelse'}]",3607153450232398580,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04
+NI,"[{'Language': 'NL', 'Description': 'Niet geïnteresseerd'}
+ {'Language': 'NO', 'Description': 'Ingen interesse'}
+ {'Language': 'FR', 'Description': 'Pas intéressé'}
+ {'Language': 'DE', 'Description': 'Keine interesse'}
+ {'Language': 'EN', 'Description': 'No Interest'}
+ {'Language': 'SV', 'Description': 'Inget intresse'}
+ {'Language': 'IT', 'Description': 'Non Interessato'}
+ {'Language': 'ES', 'Description': 'No Interesado'}
+ {'Language': 'DA', 'Description': 'Ingen interesse'}]",-4947552426700866064,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04
+O,"[{'Language': 'NL', 'Description': 'Offerte'}
+ {'Language': 'NO', 'Description': 'Utleietilbud'}
+ {'Language': 'FR', 'Description': 'Offre'}
+ {'Language': 'DE', 'Description': 'Angebot'}
+ {'Language': 'EN', 'Description': 'Proposal'}
+ {'Language': 'SV', 'Description': 'Förslag'}
+ {'Language': 'IT', 'Description': 'Offerta Presentata'}
+ {'Language': 'ES', 'Description': 'Propuesta'}
+ {'Language': 'DA', 'Description': 'Udlejningstilbud'}]",-6901264533618364740,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04
+OA,"[{'Language': 'NL', 'Description': 'Offerte Akkoord'}
+ {'Language': 'NO', 'Description': 'Utleietilbud akseptert'}
+ {'Language': 'FR', 'Description': 'Offre acceptée'}
+ {'Language': 'DE', 'Description': 'Angebot einverstanden'}
+ {'Language': 'EN', 'Description': 'Offer accepted'}
+ {'Language': 'SV', 'Description': 'Accepterat förslaget'}
+ {'Language': 'IT', 'Description': 'Offerta Accolta'}
+ {'Language': 'ES', 'Description': 'Propuesta Acordada'}
+ {'Language': 'DA', 'Description': 'Udlejningstilbud accepteret'}]",-8987999614390510364,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04
+OW,"[{'Language': 'NL', 'Description': 'Offerte Afgezegd'}
+ {'Language': 'NO', 'Description': 'Utleietilbud avvist'}
+ {'Language': 'FR', 'Description': 'Offre refusée'}
+ {'Language': 'DE', 'Description': 'Angebot gekündigt'}
+ {'Language': 'EN', 'Description': 'Proposal Refused'}
+ {'Language': 'SV', 'Description': 'Ej accepterat förslaget'}
+ {'Language': 'IT', 'Description': 'Offerta Rifiutata'}
+ {'Language': 'ES', 'Description': 'Propuesta Rechazada'}
+ {'Language': 'DA', 'Description': 'Udlejningstilbud afvist'}]",-7909801298960714033,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04
+P,"[{'Language': 'NL', 'Description': 'Purchase value prediction'}
+ {'Language': 'NO', 'Description': 'Purchase value prediction'}
+ {'Language': 'FR', 'Description': 'Purchase value prediction'}
+ {'Language': 'DE', 'Description': 'Purchase value prediction'}
+ {'Language': 'EN', 'Description': 'Purchase value prediction'}
+ {'Language': 'SV', 'Description': 'Purchase value prediction'}
+ {'Language': 'IT', 'Description': 'Purchase value prediction'}
+ {'Language': 'ES', 'Description': 'Purchase value prediction'}
+ {'Language': 'DA', 'Description': 'Purchase value prediction'}]",9030677938640445178,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04
+PB,"[{'Language': 'NL', 'Description': 'Pre-Booking'}
+ {'Language': 'NO', 'Description': 'Pre-Booking'}
+ {'Language': 'FR', 'Description': 'Pre-Booking'}
+ {'Language': 'DE', 'Description': 'Pre-Booking'}
+ {'Language': 'EN', 'Description': 'Pre-Booking'}
+ {'Language': 'SV', 'Description': 'Pre-Booking'}
+ {'Language': 'IT', 'Description': 'Pre-Booking'}
+ {'Language': 'ES', 'Description': 'Pre-Booking'}
+ {'Language': 'DA', 'Description': 'Pre-Booking'}]",-890071805028303151,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04
+W,"[{'Language': 'NL', 'Description': 'Contract opgezegd'}
+ {'Language': 'NO', 'Description': 'Kontrakten oppsagt'}
+ {'Language': 'FR', 'Description': 'Contrat résilié'}
+ {'Language': 'DE', 'Description': 'Vertrag gekündigt'}
+ {'Language': 'EN', 'Description': 'Contract terminated / Cancelled'}
+ {'Language': 'SV', 'Description': 'Avtal uppsagt / avbrutet'}
+ {'Language': 'IT', 'Description': 'Contratto Disdetto'}
+ {'Language': 'ES', 'Description': 'Contrato Rescindido'}
+ {'Language': 'DA', 'Description': 'Kontrakt opsagt'}]",-441906438949731715,stat-v1.20260129,1769688004.4726071,2026-01-29 12:00:04

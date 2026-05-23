@@ -1,0 +1,1001 @@
+ACCOMMODATION_CODE,FEATURE_ID,FEATURE,ACCOMMODATION_TYPE,INDICATOR_DETACHED
+FR-00030-83,390,On holiday park,,0
+BE-0014-23,390,On holiday park,,0
+BE-0014-26,390,On holiday park,,0
+NL-0023-37,390,On holiday park,,0
+FR-00030-82,390,On holiday park,,0
+BE-0014-22,390,On holiday park,,0
+BE-0014-24,390,On holiday park,,0
+BE-0014-25,390,On holiday park,,0
+FR-00029-24,390,On holiday park,,0
+BE-0014-19,390,On holiday park,,0
+BE-0014-27,390,On holiday park,,0
+NL-6468-01,12032,Sight-seeing,Boat,1
+NL-1011-01,520,Own house,Boat,0
+NL-4130-01,520,Own house,Boat,1
+NL-4629-01,520,Own house,Boat,1
+NL-3016-02,520,Own house,Boat,1
+NL-1096-01,520,Own house,Boat,0
+NL-3016-01,520,Own house,Boat,1
+NL-6275-01,520,Own house,Boat,1
+NL-6619-01,520,Own house,Boat,1
+FR-11800-05,31500,Otherwise,Boat,1
+BE-8400-26,31500,Otherwise,Boat,1
+FR-83700-26,31500,Otherwise,Boat,1
+NL-1011-02,530,Apartment,Boat,0
+NL-1011-01,530,Apartment,Boat,0
+BE-5000-02,530,Apartment,Boat,0
+NL-1011-07,530,Apartment,Boat,0
+BE-2000-SA,530,Apartment,Boat,0
+NL-1096-01,530,Apartment,Boat,0
+NL-1079-01,530,Apartment,Boat,0
+BE-5000-01,530,Apartment,Boat,0
+NL-1011-06,530,Apartment,Boat,0
+NL-1011-05,530,Apartment,Boat,0
+IT-84100-01,530,Apartment,Boat,0
+NL-0008-50,21010,Cycling,Boat,1
+NL-6468-01,21010,Cycling,Boat,1
+NL-6275-01,21010,Cycling,Boat,1
+BE-8400-26,30500,Otherwise,Boat,1
+FR-83700-26,30500,Otherwise,Boat,1
+FR-11800-05,30500,Otherwise,Boat,1
+NL-6275-01,21040,Watersports,Boat,1
+NL-0008-50,20020,City centre,Boat,1
+NL-6713-01,20020,City centre,Boat,1
+NL-3016-03,20020,City centre,Boat,1
+NL-3016-03,31040,Romanticism,Boat,1
+NL-6468-01,31040,Romanticism,Boat,1
+NL-0008-50,20040,Near the sea,Boat,1
+NL-6468-01,30040,Romanticism,Boat,1
+NL-3016-03,30040,Romanticism,Boat,1
+NL-8626-23,90,Boat,Boat,1
+NL-1018-01,90,Boat,Boat,1
+NL-3016-03,90,Boat,Boat,1
+NL-1601-18,90,Boat,Boat,1
+NL-1015-10,90,Boat,Boat,1
+US-00005-82,90,Boat,Boat,1
+PT-7220-01,90,Boat,Boat,1
+NL-7225-03,90,Boat,Boat,1
+NL-1628-02,90,Boat,Boat,1
+IT-00022-19,90,Boat,Boat,1
+NL-3016-02,90,Boat,Boat,1
+NL-1621-03,90,Boat,Boat,1
+GR-31100-20,90,Boat,Boat,1
+NL-8242-01,90,Boat,Boat,1
+NL-8723-30,90,Boat,Boat,1
+NL-6619-01,90,Boat,Boat,1
+NL-8861-06,90,Boat,Boat,1
+NL-8261-04,90,Boat,Boat,1
+NL-3430-01,90,Boat,Boat,1
+NL-8715-27,90,Boat,Boat,1
+NL-0010-63,90,Boat,Boat,1
+NL-1013-09,90,Boat,Boat,1
+NL-1601-32,90,Boat,Boat,1
+NL-8260-01,90,Boat,Boat,1
+NL-1601-24,90,Boat,Boat,1
+NL-8261-05,90,Boat,Boat,1
+NL-1601-10,90,Boat,Boat,1
+NL-4300-02,90,Boat,Boat,1
+NL-2572-01,90,Boat,Boat,1
+NL-8862-04,90,Boat,Boat,1
+NL-8626-24,90,Boat,Boat,1
+NL-1621-01,90,Boat,Boat,1
+NL-8626-29,90,Boat,Boat,1
+NL-1601-13,90,Boat,Boat,1
+BE-0658-01,90,Boat,Boat,1
+NL-8715-22,90,Boat,Boat,1
+FR-75015-01,90,Boat,Boat,1
+GB-00024-15,90,Boat,Boat,1
+NL-2120-01,90,Boat,Boat,1
+NL-1096-01,90,Boat,Boat,0
+NL-1811-01,90,Boat,Boat,1
+DE-23730-01,90,Boat,Boat,1
+NL-3777-01,90,Boat,Boat,1
+NL-8531-02,90,Boat,Boat,1
+NL-1601-37,90,Boat,Boat,1
+NL-8715-25,90,Boat,Boat,1
+NL-0029-66,90,Boat,Boat,1
+NL-1601-14,90,Boat,Boat,1
+NL-2734-01,90,Boat,Boat,1
+NL-4130-01,90,Boat,Boat,1
+NL-0008-50,90,Boat,Boat,1
+TR-48300-02,90,Boat,Boat,1
+ES-29640-03,90,Boat,Boat,1
+FR-72300-02,90,Boat,Boat,1
+NL-8626-20,90,Boat,Boat,1
+NL-8626-11,90,Boat,Boat,1
+GB-00020-54,90,Boat,Boat,1
+NL-5098-01,90,Boat,Boat,1
+HR-00047-44,90,Boat,Boat,1
+NL-7225-06,90,Boat,Boat,1
+NL-7225-05,90,Boat,Boat,1
+NL-1601-21,90,Boat,Boat,1
+NL-4300-08,90,Boat,Boat,1
+NL-1601-06,90,Boat,Boat,1
+NL-8723-32,90,Boat,Boat,1
+BE-5000-05,90,Boat,Boat,1
+NL-0040-35,90,Boat,Boat,1
+NL-8606-02,90,Boat,Boat,1
+NL-1601-09,90,Boat,Boat,1
+DE-17248-02,90,Boat,Boat,1
+FR-84000-02,90,Boat,Boat,1
+NL-1019-08,90,Boat,Boat,1
+FR-06400-12,90,Boat,Boat,1
+NL-1601-27,90,Boat,Boat,1
+NL-1621-02,90,Boat,Boat,1
+NL-1671-01,90,Boat,Boat,1
+NL-1011-03,90,Boat,Boat,1
+NL-1011-06,90,Boat,Boat,0
+NL-0880-01,90,Boat,Boat,1
+BE-0062-01,90,Boat,Boat,1
+NL-3676-01,90,Boat,Boat,1
+NL-8715-26,90,Boat,Boat,1
+NL-4916-01,90,Boat,Boat,1
+NL-3795-01,90,Boat,Boat,1
+NL-3092-01,90,Boat,Boat,1
+NL-8261-02,90,Boat,Boat,1
+IT-00036-81,90,Boat,Boat,1
+NL-3413-01,90,Boat,Boat,1
+NL-1621-04,90,Boat,Boat,1
+NL-4675-01,90,Boat,Boat,1
+NL-8626-22,90,Boat,Boat,1
+NL-8261-03,90,Boat,Boat,1
+NL-4665-01,90,Boat,Boat,1
+NL-4606-01,90,Boat,Boat,1
+NL-4300-09,90,Boat,Boat,1
+NL-8723-13,90,Boat,Boat,1
+NL-4300-07,90,Boat,Boat,1
+NL-8626-10,90,Boat,Boat,1
+NL-8626-19,90,Boat,Boat,1
+NL-1000-02,90,Boat,Boat,1
+NL-3786-01,90,Boat,Boat,1
+DE-00018-39,90,Boat,Boat,1
+NL-8531-03,90,Boat,Boat,1
+NL-8861-01,90,Boat,Boat,1
+NL-8626-15,90,Boat,Boat,1
+NL-4311-01,90,Boat,Boat,1
+NL-6275-01,90,Boat,Boat,1
+NL-8715-19,90,Boat,Boat,1
+NL-1601-29,90,Boat,Boat,1
+NL-3860-01,90,Boat,Boat,1
+NL-1019-01,90,Boat,Boat,1
+NL-0883-01,90,Boat,Boat,1
+NL-8606-01,90,Boat,Boat,1
+NL-8626-18,90,Boat,Boat,1
+NL-2446-01,90,Boat,Boat,1
+NL-2315-01,90,Boat,Boat,1
+NL-4300-03,90,Boat,Boat,1
+NL-7225-04,90,Boat,Boat,1
+NL-4772-01,90,Boat,Boat,1
+NL-4500-01,90,Boat,Boat,1
+NL-4889-01,90,Boat,Boat,1
+NL-1013-07,90,Boat,Boat,1
+NL-9001-02,90,Boat,Boat,1
+FR-11800-05,90,Boat,Boat,1
+IT-84100-01,90,Boat,Boat,0
+FR-34420-08,90,Boat,Boat,1
+FR-72300-03,90,Boat,Boat,1
+NL-3162-01,90,Boat,Boat,1
+NL-3104-01,90,Boat,Boat,1
+NL-5998-01,90,Boat,Boat,1
+NL-1224-01,90,Boat,Boat,1
+IT-00014-51,90,Boat,Boat,1
+NL-8715-23,90,Boat,Boat,1
+BE-0010-17,90,Boat,Boat,1
+NL-9723-01,90,Boat,Boat,1
+NL-8626-27,90,Boat,Boat,1
+NL-2946-01,90,Boat,Boat,1
+BE-5000-01,90,Boat,Boat,0
+NL-1601-15,90,Boat,Boat,1
+NL-8715-21,90,Boat,Boat,1
+NL-1011-07,90,Boat,Boat,0
+NL-8754-17,90,Boat,Boat,1
+NL-2878-01,90,Boat,Boat,1
+NL-1621-06,90,Boat,Boat,1
+NL-8626-12,90,Boat,Boat,1
+NL-3298-01,90,Boat,Boat,1
+DE-00018-36,90,Boat,Boat,1
+NL-5285-01,90,Boat,Boat,1
+NL-4499-01,90,Boat,Boat,1
+NL-4476-01,90,Boat,Boat,1
+NL-1601-22,90,Boat,Boat,1
+NL-8260-02,90,Boat,Boat,1
+NL-1095-01,90,Boat,Boat,1
+NL-1601-26,90,Boat,Boat,1
+NL-2890-01,90,Boat,Boat,1
+NL-8715-15,90,Boat,Boat,1
+NL-3168-01,90,Boat,Boat,1
+NL-1601-19,90,Boat,Boat,1
+NL-2481-01,90,Boat,Boat,1
+NL-8715-08,90,Boat,Boat,1
+NL-2984-01,90,Boat,Boat,1
+NL-4060-01,90,Boat,Boat,1
+NL-8723-23,90,Boat,Boat,1
+NL-8715-06,90,Boat,Boat,1
+DE-00003-58,90,Boat,Boat,1
+NL-4300-06,90,Boat,Boat,1
+NL-8715-29,90,Boat,Boat,1
+NL-1601-05,90,Boat,Boat,1
+NL-1601-44,90,Boat,Boat,1
+BE-8380-WS,90,Boat,Boat,1
+BE-5000-02,90,Boat,Boat,0
+NL-8626-40,90,Boat,Boat,1
+NL-3187-01,90,Boat,Boat,1
+DE-10000-01,90,Boat,Boat,1
+NL-3444-01,90,Boat,Boat,1
+NL-8714-01,90,Boat,Boat,1
+NL-6805-01,90,Boat,Boat,1
+NL-6713-01,90,Boat,Boat,1
+NL-1000-01,90,Boat,Boat,1
+NL-8711-01,90,Boat,Boat,1
+NL-9711-01,90,Boat,Boat,1
+NL-2529-01,90,Boat,Boat,1
+NL-1074-03,90,Boat,Boat,1
+NL-4629-01,90,Boat,Boat,1
+NL-1141-02,90,Boat,Boat,1
+NL-8862-01,90,Boat,Boat,1
+FR-00045-86,90,Boat,Boat,1
+NL-1000-03,90,Boat,Boat,1
+NL-1011-04,90,Boat,Boat,1
+IT-00016-11,90,Boat,Boat,1
+NL-1601-23,90,Boat,Boat,1
+NL-8715-24,90,Boat,Boat,1
+NL-8626-21,90,Boat,Boat,1
+BE-8400-01,90,Boat,Boat,1
+NL-3101-01,90,Boat,Boat,1
+FR-57565-04,90,Boat,Boat,1
+NL-8601-01,90,Boat,Boat,1
+NL-1601-17,90,Boat,Boat,1
+NL-3016-01,90,Boat,Boat,1
+NL-8715-20,90,Boat,Boat,1
+NL-2312-02,90,Boat,Boat,1
+NL-2482-01,90,Boat,Boat,1
+BE-8400-26,90,Boat,Boat,1
+NL-1019-04,90,Boat,Boat,1
+NL-1601-20,90,Boat,Boat,1
+NL-4797-01,90,Boat,Boat,1
+NL-8715-07,90,Boat,Boat,1
+ES-37188-01,90,Boat,Boat,1
+NL-2861-01,90,Boat,Boat,1
+NL-8715-18,90,Boat,Boat,1
+FR-72300-04,90,Boat,Boat,1
+NL-1601-31,90,Boat,Boat,1
+NL-9001-03,90,Boat,Boat,1
+NL-1601-33,90,Boat,Boat,1
+NL-6468-01,90,Boat,Boat,1
+NL-8861-02,90,Boat,Boat,1
+NL-8497-01,90,Boat,Boat,1
+BE-8600-03,90,Boat,Boat,1
+NL-8723-31,90,Boat,Boat,1
+NL-8626-28,90,Boat,Boat,1
+NL-8626-26,90,Boat,Boat,1
+NL-1011-02,90,Boat,Boat,0
+BE-7090-02,90,Boat,Boat,1
+US-00003-58,90,Boat,Boat,1
+NL-3220-01,90,Boat,Boat,1
+NL-8531-01,90,Boat,Boat,1
+NL-1601-30,90,Boat,Boat,1
+NL-0659-01,90,Boat,Boat,1
+NL-1821-01,90,Boat,Boat,1
+NL-1601-28,90,Boat,Boat,1
+NL-8715-28,90,Boat,Boat,1
+NL-8723-34,90,Boat,Boat,1
+NL-1013-01,90,Boat,Boat,1
+NL-8862-03,90,Boat,Boat,1
+BE-2000-SA,90,Boat,Boat,0
+ES-00021-01,90,Boat,Boat,1
+NL-4038-01,90,Boat,Boat,1
+DE-17248-03,90,Boat,Boat,1
+NL-3011-01,90,Boat,Boat,1
+NL-0009-99,90,Boat,Boat,1
+ES-00062-46,90,Boat,Boat,1
+ES-17487-AE,90,Boat,Boat,1
+NL-2497-01,90,Boat,Boat,1
+NL-1000-04,90,Boat,Boat,1
+NL-1031-01,90,Boat,Boat,1
+NL-0881-01,90,Boat,Boat,1
+NL-8262-01,90,Boat,Boat,1
+NL-1601-36,90,Boat,Boat,1
+DE-00006-60,90,Boat,Boat,1
+FR-00023-37,90,Boat,Boat,1
+NL-8626-16,90,Boat,Boat,1
+NL-8531-04,90,Boat,Boat,1
+NL-8626-14,90,Boat,Boat,1
+FR-57565-03,90,Boat,Boat,1
+NL-2511-01,90,Boat,Boat,1
+BE-8650-03,90,Boat,Boat,1
+NL-8715-14,90,Boat,Boat,1
+NL-1000-05,90,Boat,Boat,1
+NL-1601-38,90,Boat,Boat,1
+NL-8862-02,90,Boat,Boat,1
+NL-1601-07,90,Boat,Boat,1
+NL-3448-01,90,Boat,Boat,1
+NL-8723-12,90,Boat,Boat,1
+NL-3442-01,90,Boat,Boat,1
+NL-1601-16,90,Boat,Boat,1
+NL-4232-01,90,Boat,Boat,1
+BE-8650-01,90,Boat,Boat,1
+NL-1079-01,90,Boat,Boat,0
+NL-1601-04,90,Boat,Boat,1
+NL-8723-11,90,Boat,Boat,1
+NL-1011-05,90,Boat,Boat,0
+ES-07184-01,90,Boat,Boat,1
+BE-0022-18,90,Boat,Boat,1
+DE-00035-06,90,Boat,Boat,1
+ES-18230-02,90,Boat,Boat,1
+NL-5515-01,90,Boat,Boat,1
+NL-8723-02,90,Boat,Boat,1
+NL-1601-35,90,Boat,Boat,1
+NL-4202-01,90,Boat,Boat,1
+NL-2022-01,90,Boat,Boat,1
+NL-8723-35,90,Boat,Boat,1
+NL-1011-01,90,Boat,Boat,0
+NL-8801-04,90,Boat,Boat,1
+BE-8650-02,90,Boat,Boat,1
+NL-1074-02,90,Boat,Boat,1
+NL-8626-25,90,Boat,Boat,1
+NL-1013-02,90,Boat,Boat,1
+NL-1749-01,90,Boat,Boat,1
+NL-4300-01,90,Boat,Boat,1
+NL-1601-12,90,Boat,Boat,1
+HR-00046-65,90,Boat,Boat,1
+NL-1621-05,90,Boat,Boat,1
+IT-30015-01,90,Boat,Boat,1
+NL-8723-33,90,Boat,Boat,1
+FR-05881-01,90,Boat,Boat,1
+NL-8605-01,90,Boat,Boat,1
+NL-1141-04,90,Boat,Boat,1
+FR-83700-26,90,Boat,Boat,1
+NL-8715-17,90,Boat,Boat,1
+NL-8261-01,90,Boat,Boat,1
+NL-8626-17,90,Boat,Boat,1
+NL-0571-01,90,Boat,Boat,1
+ES-00088-55,90,Boat,Boat,1
+NL-8715-13,90,Boat,Boat,1
+NL-8715-16,90,Boat,Boat,1
+NL-0035-88,90,Boat,Boat,1
+NL-2710-01,90,Boat,Boat,1
+FR-00037-10,90,Boat,Boat,1
+NL-8626-13,90,Boat,Boat,1
+NL-6468-01,20060,Rural,Boat,1
+NL-6468-01,350,On an island,Boat,1
+NL-8497-01,350,On an island,Boat,1
+NL-3016-03,21090,Fishing,Boat,1
+NL-6468-01,21090,Fishing,Boat,1
+DE-00018-39,21090,Fishing,Boat,1
+NL-0008-50,21090,Fishing,Boat,1
+NL-6468-01,20070,Village,Boat,1
+NL-6275-01,20070,Village,Boat,1
+FR-11800-05,360,In the countryside,Boat,1
+BE-7090-02,360,In the countryside,Boat,1
+NL-4300-07,360,In the countryside,Boat,1
+FR-72300-03,360,In the countryside,Boat,1
+FR-72300-04,360,In the countryside,Boat,1
+NL-1749-01,360,In the countryside,Boat,1
+BE-8650-01,360,In the countryside,Boat,1
+NL-0659-01,360,In the countryside,Boat,1
+BE-8650-02,360,In the countryside,Boat,1
+BE-8600-03,360,In the countryside,Boat,1
+BE-8650-03,360,In the countryside,Boat,1
+NL-6468-01,20080,Waterfront,Boat,1
+NL-3016-03,20080,Waterfront,Boat,1
+NL-6619-01,20080,Waterfront,Boat,1
+NL-5998-01,20080,Waterfront,Boat,1
+NL-6275-01,20080,Waterfront,Boat,1
+ES-00021-01,380,In a residential area or in the centre (village),Boat,1
+NL-8605-01,380,In a residential area or in the centre (village),Boat,1
+NL-6275-01,380,In a residential area or in the centre (village),Boat,1
+BE-0062-01,380,In a residential area or in the centre (village),Boat,1
+BE-8400-26,385,In a residential area or in the centre (city),Boat,1
+NL-3786-01,385,In a residential area or in the centre (city),Boat,1
+NL-1011-02,385,In a residential area or in the centre (city),Boat,0
+NL-3860-01,385,In a residential area or in the centre (city),Boat,1
+NL-6713-01,385,In a residential area or in the centre (city),Boat,1
+NL-2312-02,385,In a residential area or in the centre (city),Boat,1
+NL-2315-01,385,In a residential area or in the centre (city),Boat,1
+NL-2861-01,385,In a residential area or in the centre (city),Boat,1
+NL-1224-01,385,In a residential area or in the centre (city),Boat,1
+NL-2946-01,385,In a residential area or in the centre (city),Boat,1
+NL-1079-01,385,In a residential area or in the centre (city),Boat,0
+NL-3016-03,385,In a residential area or in the centre (city),Boat,1
+NL-1079-01,392,Bed & Breakfast,Boat,0
+NL-1011-07,392,Bed & Breakfast,Boat,0
+NL-1011-05,392,Bed & Breakfast,Boat,0
+NL-1011-01,392,Bed & Breakfast,Boat,0
+BE-2000-SA,392,Bed & Breakfast,Boat,0
+NL-1011-06,392,Bed & Breakfast,Boat,0
+NL-1079-01,4502,Safety deposit box,Boat,0
+IT-00022-19,21150,Sailing,Boat,1
+IT-00022-19,415,Not necessary,Boat,1
+FR-83700-26,6050,Some stairs at the entry,Boat,1
+BE-5000-01,6050,Some stairs at the entry,Boat,0
+FR-34420-08,6050,Some stairs at the entry,Boat,1
+BE-5000-02,6050,Some stairs at the entry,Boat,0
+NL-6468-01,420,Recommended,Boat,1
+NL-6468-01,21160,Walking,Boat,1
+NL-0008-50,21170,Beach,Boat,1
+NL-3016-03,14016,Families,Boat,1
+NL-6468-01,14016,Families,Boat,1
+NL-0008-50,14016,Families,Boat,1
+NL-6275-01,14016,Families,Boat,1
+NL-3016-03,14018,Groups,Boat,1
+NL-3016-01,14018,Groups,Boat,1
+NL-3016-03,710,Special interior,Boat,1
+NL-3786-01,14024,Pets,Boat,1
+DE-00018-39,14024,Pets,Boat,1
+NL-2984-01,14024,Pets,Boat,1
+NL-4916-01,14024,Pets,Boat,1
+NL-6713-01,720,Special story,Boat,1
+NL-3016-03,720,Special story,Boat,1
+NL-2984-01,210,Detached,Boat,1
+ES-29640-03,210,Detached,Boat,1
+NL-8626-26,210,Detached,Boat,1
+NL-1601-23,210,Detached,Boat,1
+NL-1601-30,210,Detached,Boat,1
+NL-1601-20,210,Detached,Boat,1
+NL-4629-01,210,Detached,Boat,1
+NL-8626-12,210,Detached,Boat,1
+DE-00006-60,210,Detached,Boat,1
+NL-2497-01,210,Detached,Boat,1
+NL-2022-01,210,Detached,Boat,1
+NL-8723-32,210,Detached,Boat,1
+NL-6713-01,210,Detached,Boat,1
+HR-00047-44,210,Detached,Boat,1
+NL-1628-02,210,Detached,Boat,1
+IT-00014-51,210,Detached,Boat,1
+NL-4300-01,210,Detached,Boat,1
+NL-1601-15,210,Detached,Boat,1
+NL-3011-01,210,Detached,Boat,1
+NL-8242-01,210,Detached,Boat,1
+NL-8754-17,210,Detached,Boat,1
+NL-8261-04,210,Detached,Boat,1
+BE-7090-02,210,Detached,Boat,1
+NL-4060-01,210,Detached,Boat,1
+NL-8626-14,210,Detached,Boat,1
+NL-1621-03,210,Detached,Boat,1
+NL-8626-15,210,Detached,Boat,1
+NL-8862-04,210,Detached,Boat,1
+BE-8400-26,210,Detached,Boat,1
+NL-8723-11,210,Detached,Boat,1
+HR-00046-65,210,Detached,Boat,1
+NL-1013-09,210,Detached,Boat,1
+FR-72300-04,210,Detached,Boat,1
+NL-1601-10,210,Detached,Boat,1
+NL-1601-26,210,Detached,Boat,1
+NL-1013-07,210,Detached,Boat,1
+FR-11800-05,210,Detached,Boat,1
+NL-1013-02,210,Detached,Boat,1
+NL-4232-01,210,Detached,Boat,1
+NL-1621-04,210,Detached,Boat,1
+NL-2312-02,210,Detached,Boat,1
+NL-2734-01,210,Detached,Boat,1
+IT-30015-01,210,Detached,Boat,1
+NL-1000-02,210,Detached,Boat,1
+FR-72300-03,210,Detached,Boat,1
+NL-1019-04,210,Detached,Boat,1
+NL-4300-02,210,Detached,Boat,1
+NL-8626-20,210,Detached,Boat,1
+NL-0035-88,210,Detached,Boat,1
+NL-1621-02,210,Detached,Boat,1
+NL-4300-06,210,Detached,Boat,1
+ES-00062-46,210,Detached,Boat,1
+NL-1601-09,210,Detached,Boat,1
+NL-1141-04,210,Detached,Boat,1
+NL-1601-04,210,Detached,Boat,1
+NL-8626-40,210,Detached,Boat,1
+NL-1000-03,210,Detached,Boat,1
+NL-1601-31,210,Detached,Boat,1
+NL-9711-01,210,Detached,Boat,1
+NL-1601-24,210,Detached,Boat,1
+NL-2861-01,210,Detached,Boat,1
+NL-1621-01,210,Detached,Boat,1
+NL-4038-01,210,Detached,Boat,1
+NL-1019-01,210,Detached,Boat,1
+NL-1621-05,210,Detached,Boat,1
+NL-8606-01,210,Detached,Boat,1
+NL-1601-35,210,Detached,Boat,1
+NL-8861-06,210,Detached,Boat,1
+NL-1671-01,210,Detached,Boat,1
+NL-1031-01,210,Detached,Boat,1
+PT-7220-01,210,Detached,Boat,1
+NL-1601-05,210,Detached,Boat,1
+DE-00003-58,210,Detached,Boat,1
+NL-8626-25,210,Detached,Boat,1
+NL-2710-01,210,Detached,Boat,1
+NL-3786-01,210,Detached,Boat,1
+NL-1601-12,210,Detached,Boat,1
+NL-8261-02,210,Detached,Boat,1
+NL-0009-99,210,Detached,Boat,1
+DE-00018-36,210,Detached,Boat,1
+NL-3187-01,210,Detached,Boat,1
+NL-1601-27,210,Detached,Boat,1
+NL-8261-03,210,Detached,Boat,1
+NL-1601-21,210,Detached,Boat,1
+BE-0022-18,210,Detached,Boat,1
+NL-3860-01,210,Detached,Boat,1
+FR-00023-37,210,Detached,Boat,1
+NL-1601-32,210,Detached,Boat,1
+FR-57565-03,210,Detached,Boat,1
+FR-72300-02,210,Detached,Boat,1
+NL-2446-01,210,Detached,Boat,1
+NL-2529-01,210,Detached,Boat,1
+NL-8531-03,210,Detached,Boat,1
+BE-0010-17,210,Detached,Boat,1
+NL-1095-01,210,Detached,Boat,1
+NL-1601-14,210,Detached,Boat,1
+NL-8801-04,210,Detached,Boat,1
+NL-5285-01,210,Detached,Boat,1
+NL-8626-27,210,Detached,Boat,1
+NL-3016-01,210,Detached,Boat,1
+NL-0881-01,210,Detached,Boat,1
+NL-8723-33,210,Detached,Boat,1
+NL-8715-16,210,Detached,Boat,1
+BE-8380-WS,210,Detached,Boat,1
+NL-1601-37,210,Detached,Boat,1
+ES-17487-AE,210,Detached,Boat,1
+NL-8715-27,210,Detached,Boat,1
+BE-0658-01,210,Detached,Boat,1
+NL-8715-14,210,Detached,Boat,1
+NL-2511-01,210,Detached,Boat,1
+NL-4300-03,210,Detached,Boat,1
+DE-23730-01,210,Detached,Boat,1
+FR-00037-10,210,Detached,Boat,1
+NL-8715-22,210,Detached,Boat,1
+NL-3101-01,210,Detached,Boat,1
+NL-8715-07,210,Detached,Boat,1
+NL-0008-50,210,Detached,Boat,1
+NL-1601-07,210,Detached,Boat,1
+BE-8650-03,210,Detached,Boat,1
+NL-8723-13,210,Detached,Boat,1
+NL-7225-04,210,Detached,Boat,1
+NL-1013-01,210,Detached,Boat,1
+NL-4772-01,210,Detached,Boat,1
+NL-9001-03,210,Detached,Boat,1
+NL-8715-26,210,Detached,Boat,1
+FR-05881-01,210,Detached,Boat,1
+NL-1749-01,210,Detached,Boat,1
+NL-8626-21,210,Detached,Boat,1
+NL-4606-01,210,Detached,Boat,1
+GR-31100-20,210,Detached,Boat,1
+NL-8626-22,210,Detached,Boat,1
+NL-5098-01,210,Detached,Boat,1
+BE-8650-02,210,Detached,Boat,1
+NL-9001-02,210,Detached,Boat,1
+BE-8650-01,210,Detached,Boat,1
+NL-8715-19,210,Detached,Boat,1
+NL-1141-02,210,Detached,Boat,1
+NL-8715-18,210,Detached,Boat,1
+NL-2481-01,210,Detached,Boat,1
+NL-8715-23,210,Detached,Boat,1
+NL-2878-01,210,Detached,Boat,1
+NL-1821-01,210,Detached,Boat,1
+US-00005-82,210,Detached,Boat,1
+NL-3016-03,210,Detached,Boat,1
+ES-18230-02,210,Detached,Boat,1
+DE-10000-01,210,Detached,Boat,1
+FR-83700-26,210,Detached,Boat,1
+NL-8862-03,210,Detached,Boat,1
+NL-8862-02,210,Detached,Boat,1
+NL-2946-01,210,Detached,Boat,1
+NL-8715-17,210,Detached,Boat,1
+NL-3430-01,210,Detached,Boat,1
+NL-8626-11,210,Detached,Boat,1
+NL-0883-01,210,Detached,Boat,1
+NL-8715-20,210,Detached,Boat,1
+NL-8606-02,210,Detached,Boat,1
+NL-2572-01,210,Detached,Boat,1
+NL-3168-01,210,Detached,Boat,1
+NL-8723-30,210,Detached,Boat,1
+NL-8862-01,210,Detached,Boat,1
+NL-8626-10,210,Detached,Boat,1
+DE-17248-02,210,Detached,Boat,1
+NL-8531-01,210,Detached,Boat,1
+NL-8715-24,210,Detached,Boat,1
+NL-4797-01,210,Detached,Boat,1
+NL-2890-01,210,Detached,Boat,1
+NL-4499-01,210,Detached,Boat,1
+NL-3104-01,210,Detached,Boat,1
+NL-8723-34,210,Detached,Boat,1
+NL-3444-01,210,Detached,Boat,1
+NL-4500-01,210,Detached,Boat,1
+NL-9723-01,210,Detached,Boat,1
+NL-3442-01,210,Detached,Boat,1
+NL-4916-01,210,Detached,Boat,1
+NL-1015-10,210,Detached,Boat,1
+NL-3795-01,210,Detached,Boat,1
+NL-8626-29,210,Detached,Boat,1
+NL-1601-18,210,Detached,Boat,1
+DE-00035-06,210,Detached,Boat,1
+NL-1601-44,210,Detached,Boat,1
+NL-3162-01,210,Detached,Boat,1
+NL-6619-01,210,Detached,Boat,1
+NL-4202-01,210,Detached,Boat,1
+NL-0571-01,210,Detached,Boat,1
+NL-1000-04,210,Detached,Boat,1
+BE-5000-05,210,Detached,Boat,1
+ES-07184-01,210,Detached,Boat,1
+NL-5515-01,210,Detached,Boat,1
+NL-8262-01,210,Detached,Boat,1
+NL-8723-12,210,Detached,Boat,1
+NL-1601-16,210,Detached,Boat,1
+NL-8715-29,210,Detached,Boat,1
+NL-7225-06,210,Detached,Boat,1
+NL-4300-08,210,Detached,Boat,1
+NL-8626-23,210,Detached,Boat,1
+NL-8626-16,210,Detached,Boat,1
+NL-6275-01,210,Detached,Boat,1
+NL-8711-01,210,Detached,Boat,1
+NL-3777-01,210,Detached,Boat,1
+NL-8715-28,210,Detached,Boat,1
+NL-1601-33,210,Detached,Boat,1
+NL-2120-01,210,Detached,Boat,1
+NL-3220-01,210,Detached,Boat,1
+NL-8715-21,210,Detached,Boat,1
+NL-3676-01,210,Detached,Boat,1
+NL-8605-01,210,Detached,Boat,1
+GB-00020-54,210,Detached,Boat,1
+NL-4476-01,210,Detached,Boat,1
+NL-4889-01,210,Detached,Boat,1
+NL-8723-35,210,Detached,Boat,1
+NL-4311-01,210,Detached,Boat,1
+NL-8497-01,210,Detached,Boat,1
+NL-1601-38,210,Detached,Boat,1
+FR-84000-02,210,Detached,Boat,1
+NL-1601-28,210,Detached,Boat,1
+NL-3016-02,210,Detached,Boat,1
+NL-3092-01,210,Detached,Boat,1
+NL-4300-09,210,Detached,Boat,1
+NL-8715-25,210,Detached,Boat,1
+IT-00036-81,210,Detached,Boat,1
+NL-1601-06,210,Detached,Boat,1
+GB-00024-15,210,Detached,Boat,1
+NL-1000-05,210,Detached,Boat,1
+NL-8861-02,210,Detached,Boat,1
+NL-1019-08,210,Detached,Boat,1
+BE-8600-03,210,Detached,Boat,1
+NL-1074-03,210,Detached,Boat,1
+ES-00088-55,210,Detached,Boat,1
+NL-2315-01,210,Detached,Boat,1
+NL-2482-01,210,Detached,Boat,1
+IT-00022-19,210,Detached,Boat,1
+NL-8261-01,210,Detached,Boat,1
+NL-1018-01,210,Detached,Boat,1
+NL-8715-06,210,Detached,Boat,1
+NL-3448-01,210,Detached,Boat,1
+NL-8626-19,210,Detached,Boat,1
+NL-1621-06,210,Detached,Boat,1
+NL-8531-02,210,Detached,Boat,1
+NL-4300-07,210,Detached,Boat,1
+NL-3413-01,210,Detached,Boat,1
+FR-06400-12,210,Detached,Boat,1
+NL-0040-35,210,Detached,Boat,1
+NL-7225-03,210,Detached,Boat,1
+FR-34420-08,210,Detached,Boat,1
+DE-17248-03,210,Detached,Boat,1
+NL-1011-03,210,Detached,Boat,1
+NL-6805-01,210,Detached,Boat,1
+NL-1601-22,210,Detached,Boat,1
+NL-8260-02,210,Detached,Boat,1
+NL-4130-01,210,Detached,Boat,1
+NL-5998-01,210,Detached,Boat,1
+NL-0880-01,210,Detached,Boat,1
+NL-1011-04,210,Detached,Boat,1
+IT-00016-11,210,Detached,Boat,1
+NL-8723-23,210,Detached,Boat,1
+NL-6468-01,210,Detached,Boat,1
+NL-8260-01,210,Detached,Boat,1
+NL-8723-02,210,Detached,Boat,1
+NL-1811-01,210,Detached,Boat,1
+NL-8714-01,210,Detached,Boat,1
+NL-8626-18,210,Detached,Boat,1
+BE-0062-01,210,Detached,Boat,1
+ES-00021-01,210,Detached,Boat,1
+NL-1601-36,210,Detached,Boat,1
+NL-1601-19,210,Detached,Boat,1
+NL-3298-01,210,Detached,Boat,1
+FR-00045-86,210,Detached,Boat,1
+NL-1601-17,210,Detached,Boat,1
+ES-37188-01,210,Detached,Boat,1
+NL-4675-01,210,Detached,Boat,1
+NL-0659-01,210,Detached,Boat,1
+NL-8626-13,210,Detached,Boat,1
+US-00003-58,210,Detached,Boat,1
+NL-8723-31,210,Detached,Boat,1
+BE-8400-01,210,Detached,Boat,1
+NL-0029-66,210,Detached,Boat,1
+NL-8715-13,210,Detached,Boat,1
+NL-1601-13,210,Detached,Boat,1
+TR-48300-02,210,Detached,Boat,1
+NL-8626-28,210,Detached,Boat,1
+NL-0010-63,210,Detached,Boat,1
+NL-1000-01,210,Detached,Boat,1
+FR-57565-04,210,Detached,Boat,1
+NL-1074-02,210,Detached,Boat,1
+NL-1224-01,210,Detached,Boat,1
+NL-8626-17,210,Detached,Boat,1
+FR-75015-01,210,Detached,Boat,1
+NL-8715-08,210,Detached,Boat,1
+NL-8861-01,210,Detached,Boat,1
+NL-8531-04,210,Detached,Boat,1
+NL-1601-29,210,Detached,Boat,1
+NL-8601-01,210,Detached,Boat,1
+NL-8715-15,210,Detached,Boat,1
+NL-4665-01,210,Detached,Boat,1
+DE-00018-39,210,Detached,Boat,1
+NL-7225-05,210,Detached,Boat,1
+NL-8261-05,210,Detached,Boat,1
+NL-8626-24,210,Detached,Boat,1
+NL-3016-03,730,Exceptional spot,Boat,1
+NL-6468-01,730,Exceptional spot,Boat,1
+NL-6713-01,730,Exceptional spot,Boat,1
+NL-6468-01,12012,Away from it all,Boat,1
+NL-6275-01,12012,Away from it all,Boat,1
+NL-0008-50,12014,Beach,Boat,1
+NL-3016-01,12018,City break,Boat,1
+NL-0008-50,12018,City break,Boat,1
+NL-3016-03,12018,City break,Boat,1
+NL-6468-01,12018,City break,Boat,1
+FR-75015-01,502,Non smoking,Boat,1
+NL-8626-20,502,Non smoking,Boat,1
+NL-4300-02,502,Non smoking,Boat,1
+NL-9711-01,502,Non smoking,Boat,1
+NL-6619-01,502,Non smoking,Boat,1
+NL-1031-01,502,Non smoking,Boat,1
+NL-2946-01,502,Non smoking,Boat,1
+NL-1621-06,502,Non smoking,Boat,1
+NL-5998-01,502,Non smoking,Boat,1
+BE-8650-01,502,Non smoking,Boat,1
+NL-5285-01,502,Non smoking,Boat,1
+NL-7225-06,502,Non smoking,Boat,1
+NL-4130-01,502,Non smoking,Boat,1
+NL-3016-01,502,Non smoking,Boat,1
+NL-1621-05,502,Non smoking,Boat,1
+NL-8626-22,502,Non smoking,Boat,1
+IT-00022-19,502,Non smoking,Boat,1
+NL-4916-01,502,Non smoking,Boat,1
+IT-00014-51,502,Non smoking,Boat,1
+NL-1011-07,502,Non smoking,Boat,0
+NL-1074-02,502,Non smoking,Boat,1
+NL-8626-25,502,Non smoking,Boat,1
+BE-8650-03,502,Non smoking,Boat,1
+NL-4300-01,502,Non smoking,Boat,1
+NL-5098-01,502,Non smoking,Boat,1
+FR-11800-05,502,Non smoking,Boat,1
+NL-8260-02,502,Non smoking,Boat,1
+NL-2878-01,502,Non smoking,Boat,1
+NL-6713-01,502,Non smoking,Boat,1
+NL-8626-29,502,Non smoking,Boat,1
+NL-4797-01,502,Non smoking,Boat,1
+IT-84100-01,502,Non smoking,Boat,0
+DE-00018-39,502,Non smoking,Boat,1
+NL-8261-05,502,Non smoking,Boat,1
+NL-4300-06,502,Non smoking,Boat,1
+NL-1141-04,502,Non smoking,Boat,1
+NL-4300-03,502,Non smoking,Boat,1
+NL-1095-01,502,Non smoking,Boat,1
+NL-8626-24,502,Non smoking,Boat,1
+NL-8260-01,502,Non smoking,Boat,1
+NL-8626-27,502,Non smoking,Boat,1
+NL-1074-03,502,Non smoking,Boat,1
+BE-8380-WS,502,Non smoking,Boat,1
+NL-2315-01,502,Non smoking,Boat,1
+NL-8626-11,502,Non smoking,Boat,1
+NL-1628-02,502,Non smoking,Boat,1
+NL-4629-01,502,Non smoking,Boat,1
+NL-8626-28,502,Non smoking,Boat,1
+BE-8650-02,502,Non smoking,Boat,1
+NL-0008-50,502,Non smoking,Boat,1
+NL-3220-01,502,Non smoking,Boat,1
+NL-1011-06,502,Non smoking,Boat,0
+IT-00016-11,502,Non smoking,Boat,1
+NL-6275-01,502,Non smoking,Boat,1
+NL-4300-09,502,Non smoking,Boat,1
+BE-2000-SA,502,Non smoking,Boat,0
+NL-3786-01,502,Non smoking,Boat,1
+NL-3016-02,502,Non smoking,Boat,1
+NL-1011-05,502,Non smoking,Boat,0
+NL-8723-32,502,Non smoking,Boat,1
+NL-1011-01,502,Non smoking,Boat,0
+NL-4300-08,502,Non smoking,Boat,1
+NL-8723-33,502,Non smoking,Boat,1
+DE-23730-01,502,Non smoking,Boat,1
+BE-8600-03,502,Non smoking,Boat,1
+NL-8723-31,502,Non smoking,Boat,1
+NL-1079-01,502,Non smoking,Boat,0
+NL-8626-26,502,Non smoking,Boat,1
+NL-7225-05,502,Non smoking,Boat,1
+FR-84000-02,502,Non smoking,Boat,1
+NL-8723-35,502,Non smoking,Boat,1
+NL-8626-16,502,Non smoking,Boat,1
+NL-6805-01,502,Non smoking,Boat,1
+NL-7225-03,502,Non smoking,Boat,1
+NL-8242-01,502,Non smoking,Boat,1
+NL-2984-01,502,Non smoking,Boat,1
+NL-6468-01,502,Non smoking,Boat,1
+DE-10000-01,502,Non smoking,Boat,1
+NL-2861-01,502,Non smoking,Boat,1
+NL-4300-07,502,Non smoking,Boat,1
+NL-1013-01,502,Non smoking,Boat,1
+BE-5000-05,502,Non smoking,Boat,1
+NL-1011-03,502,Non smoking,Boat,1
+NL-8626-23,502,Non smoking,Boat,1
+BE-0658-01,502,Non smoking,Boat,1
+IT-00036-81,502,Non smoking,Boat,1
+NL-4311-01,502,Non smoking,Boat,1
+DE-00018-36,502,Non smoking,Boat,1
+NL-8723-23,502,Non smoking,Boat,1
+ES-29640-03,502,Non smoking,Boat,1
+NL-3860-01,502,Non smoking,Boat,1
+IT-30015-01,502,Non smoking,Boat,1
+NL-1096-01,502,Non smoking,Boat,0
+NL-8626-12,502,Non smoking,Boat,1
+NL-3016-03,12026,Romantic,Boat,1
+NL-6468-01,12026,Romantic,Boat,1
+IT-00022-19,510,WiFi,Boat,1
+IT-00014-51,510,WiFi,Boat,1
+NL-0009-99,510,WiFi,Boat,1
+NL-7225-06,510,WiFi,Boat,1
+DE-00006-60,510,WiFi,Boat,1
+NL-3016-03,510,WiFi,Boat,1
+NL-8723-35,510,WiFi,Boat,1
+NL-8626-26,510,WiFi,Boat,1
+NL-8723-33,510,WiFi,Boat,1
+NL-1074-03,510,WiFi,Boat,1
+NL-3016-01,510,WiFi,Boat,1
+NL-1015-10,510,WiFi,Boat,1
+NL-3786-01,510,WiFi,Boat,1
+NL-2984-01,510,WiFi,Boat,1
+NL-8261-05,510,WiFi,Boat,1
+BE-2000-SA,510,WiFi,Boat,0
+NL-6275-01,510,WiFi,Boat,1
+NL-2312-02,510,WiFi,Boat,1
+NL-6468-01,510,WiFi,Boat,1
+NL-5998-01,510,WiFi,Boat,1
+BE-8650-02,510,WiFi,Boat,1
+NL-0008-50,510,WiFi,Boat,1
+NL-4916-01,510,WiFi,Boat,1
+NL-5098-01,510,WiFi,Boat,1
+NL-2946-01,510,WiFi,Boat,1
+BE-8400-26,510,WiFi,Boat,1
+NL-8626-12,510,WiFi,Boat,1
+NL-8626-29,510,WiFi,Boat,1
+NL-8626-16,510,WiFi,Boat,1
+NL-2861-01,510,WiFi,Boat,1
+NL-1079-01,510,WiFi,Boat,0
+NL-4606-01,510,WiFi,Boat,1
+NL-6713-01,510,WiFi,Boat,1
+NL-4629-01,510,WiFi,Boat,1
+DE-00003-58,510,WiFi,Boat,1
+NL-4130-01,510,WiFi,Boat,1
+NL-8723-32,510,WiFi,Boat,1
+NL-1074-02,510,WiFi,Boat,1
+NL-6619-01,510,WiFi,Boat,1
+NL-8626-20,510,WiFi,Boat,1
+NL-3016-02,510,WiFi,Boat,1
+NL-1096-01,510,WiFi,Boat,0
+BE-0658-01,510,WiFi,Boat,1
+NL-8723-31,510,WiFi,Boat,1
+BE-8650-01,510,WiFi,Boat,1
+NL-8626-11,510,WiFi,Boat,1
+IT-00022-19,12030,Sailing,Boat,1
+FR-00010-65,12032,Sight-seeing,Mill,1
+FR-17500-03,12032,Sight-seeing,Mill,1
+BE-5170-13,12032,Sight-seeing,Mill,1
+FR-17500-06,12032,Sight-seeing,Mill,1
+BE-5575-38,12032,Sight-seeing,Mill,1
+BE-5502-03,12032,Sight-seeing,Mill,1
+FR-17500-05,12032,Sight-seeing,Mill,1
+BE-5575-40,12032,Sight-seeing,Mill,1
+BE-5575-41,12032,Sight-seeing,Mill,1
+FR-17500-06,12038,Stag night,Mill,1
+FR-67150-04,530,Apartment,Mill,0
+BE-0004-09,530,Apartment,Mill,0
+FR-67150-03,530,Apartment,Mill,0
+FR-00032-11,530,Apartment,Mill,0
+FR-46120-13,530,Apartment,Mill,0
+BE-5502-03,21010,Cycling,Mill,1
+BE-5170-13,21010,Cycling,Mill,1
+FR-17500-06,21010,Cycling,Mill,1
+FR-17500-03,21010,Cycling,Mill,1
+BE-5575-40,21010,Cycling,Mill,1
+FR-00010-65,21010,Cycling,Mill,1
+BE-5575-38,21010,Cycling,Mill,1
+BE-5575-41,21010,Cycling,Mill,1
+FR-17500-05,21010,Cycling,Mill,1
+FR-00010-65,21020,Mountain Biking,Mill,1
+FR-17500-03,21020,Mountain Biking,Mill,1
+FR-17500-06,21020,Mountain Biking,Mill,1
+FR-17500-03,30500,Otherwise,Mill,1
+FR-17500-05,21040,Watersports,Mill,1
+FR-17500-05,31030,Royal chique,Mill,1
+FR-00010-65,31030,Royal chique,Mill,1
+FR-17500-03,31030,Royal chique,Mill,1
+FR-17500-03,31040,Romanticism,Mill,1
+FR-00010-65,31040,Romanticism,Mill,1
+FR-17500-05,31040,Romanticism,Mill,1
+FR-17500-03,30020,Mediterranean,Mill,1
+FR-17500-03,20040,Near the sea,Mill,1
+FR-17500-03,31050,Rural,Mill,1
+FR-17500-05,31050,Rural,Mill,1
+FR-00010-65,30030,Royal chique,Mill,1
+FR-17500-05,30030,Royal chique,Mill,1
+FR-17500-05,31060,Nature / Earth,Mill,1
+FR-17500-03,30040,Romanticism,Mill,1
+FR-17500-05,30040,Romanticism,Mill,1
+FR-00010-65,30040,Romanticism,Mill,1
+FR-17500-05,20060,Rural,Mill,1
+FR-17500-03,20060,Rural,Mill,1
+FR-17500-06,20060,Rural,Mill,1
+FR-17500-05,21090,Fishing,Mill,1
+FR-17500-06,21090,Fishing,Mill,1
+FR-00010-65,21090,Fishing,Mill,1
+FR-17500-03,21090,Fishing,Mill,1
+FR-17500-05,30050,Rural,Mill,1
+FR-17500-03,30050,Rural,Mill,1
+BE-5575-38,20070,Village,Mill,1
+BE-5502-03,20070,Village,Mill,1
+FR-17500-05,20070,Village,Mill,1
+BE-0750-01,20070,Village,Mill,1
+FR-17500-06,20070,Village,Mill,1
+BE-5170-13,20070,Village,Mill,1
+BE-0004-09,360,In the countryside,Mill,0
+FR-17500-05,360,In the countryside,Mill,1
+BE-5502-03,360,In the countryside,Mill,1
+BE-5575-41,360,In the countryside,Mill,1
+FR-17500-06,360,In the countryside,Mill,1
+BE-5575-38,360,In the countryside,Mill,1
+BE-5575-40,360,In the countryside,Mill,1
+FR-17500-03,360,In the countryside,Mill,1
+BE-5170-13,360,In the countryside,Mill,1
+FR-17500-05,30060,Nature / Earth,Mill,1
+FR-17500-05,21110,Swimming pool,Mill,1
+FR-17500-03,21110,Swimming pool,Mill,1
+FR-00010-65,21110,Swimming pool,Mill,1
+FR-17500-06,21110,Swimming pool,Mill,1
+BE-0165-01,380,In a residential area or in the centre (village),Mill,1
+FR-00010-65,380,In a residential area or in the centre (village),Mill,1
+FR-17500-05,21120,Golf,Mill,1
+FR-17500-03,21120,Golf,Mill,1
+FR-00010-65,21120,Golf,Mill,1
+FR-17500-06,21120,Golf,Mill,1
+FR-17500-03,21130,Tennis,Mill,1
+FR-17500-05,21130,Tennis,Mill,1
+FR-17500-06,21130,Tennis,Mill,1
+BE-5502-03,21140,Horse riding,Mill,1
+FR-17500-03,21140,Horse riding,Mill,1
+FR-17500-06,21140,Horse riding,Mill,1
+FR-17500-05,21140,Horse riding,Mill,1
+BE-5502-03,4501,Alarm,Mill,1
+NL-5316-02,4501,Alarm,Mill,1
+FR-17500-06,410,Necessary,Mill,1
+FR-17500-05,410,Necessary,Mill,1
+FR-17500-03,410,Necessary,Mill,1
+FR-00010-65,415,Not necessary,Mill,1
+BE-5575-38,21160,Walking,Mill,1
+BE-5170-13,21160,Walking,Mill,1
+BE-5575-41,21160,Walking,Mill,1
+FR-17500-06,21160,Walking,Mill,1
+FR-17500-03,21160,Walking,Mill,1
+FR-17500-05,21160,Walking,Mill,1
+BE-5502-03,21160,Walking,Mill,1
+FR-00010-65,21160,Walking,Mill,1
+BE-5575-40,21160,Walking,Mill,1
+BE-0268-03,172,Mill,Mill,1
+BE-5575-41,172,Mill,Mill,1
+BE-0179-01,172,Mill,Mill,1
+FR-11380-02,172,Mill,Mill,1
+GR-18040-02,172,Mill,Mill,1
+ES-29780-64,172,Mill,Mill,1
+PT-0001-53,172,Mill,Mill,1
+BE-5575-40,172,Mill,Mill,1
+FR-17500-05,172,Mill,Mill,1
+FR-31420-01,172,Mill,Mill,1
+NL-0030-33,172,Mill,Mill,1
+IT-00021-66,172,Mill,Mill,1
+FR-00025-59,172,Mill,Mill,1
+IT-02030-06,172,Mill,Mill,1
+FR-00019-25,172,Mill,Mill,1
+US-32084-01,172,Mill,Mill,1
+FR-67150-03,172,Mill,Mill,0
+ES-00090-66,172,Mill,Mill,1
+US-00024-65,172,Mill,Mill,1
